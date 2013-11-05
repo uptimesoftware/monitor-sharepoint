@@ -1,8 +1,8 @@
-name=Remote Acknowledgement Plugin
-version=2.1
-platforms=windows linux solaris
-description=Adds the ability to acknowledge alerts remotely (Ex. via mobile). Note: This plugin will allow up.time to acknowledge alerts easily, but you will still have to configure your firewall(s) to allow remote connections to access the UI.
-restartCore=false
+name=SharePoint Monitor
+version=1.1
+platforms=windows
+description=Allows the ability to monitor Microsoft SharePoint performance.
 requiresAgentScript=false
+restartCore=false
 onUpgradeRemoveFiles=true
 onUpgradeRemoveMonitors=false
